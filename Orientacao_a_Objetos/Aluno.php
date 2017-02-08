@@ -1,7 +1,7 @@
 <?php
 class Aluno{
-  $nome;
-  $rg;
-  $dataNascimento;
+  public $nome;
+  public $rg;
+  public $turma;
 }
 ?>

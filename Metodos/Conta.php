@@ -12,6 +12,13 @@ class Conta{
     $this->saldo -=$valor;
     return TRUE;
     }
+   }
+  function imprimeExtrato($conta){
+    return this.$saldo;
   }
+  function consultaSaldoDisponivel($conta){
+    return this.$saldo;
+  }
+
 }
  ?>

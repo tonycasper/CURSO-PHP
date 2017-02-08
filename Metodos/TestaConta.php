@@ -10,8 +10,8 @@ $conta->deposita(700);
 $resultado = $conta->saca(800);
 
 if($resultado) {
-  echo "Sque efetuado com sucesso";
+  echo "Saque efetuado com sucesso";
 }else{
   echo "Saldo insulficiente";
 }
- ?>
+?>
